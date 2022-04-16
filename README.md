@@ -1,3 +1,4 @@
-## Idea
+React Basic Project
+John Smilga (FreeCodeCamp) Tutorial
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+Live Demo https://enchanting-otter-bb1619.netlify.app/
